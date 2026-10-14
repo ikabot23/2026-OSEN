@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,01. Битва начинается / The Battle Begins
+#EXTVLCOPT:http-referrer=https://krussdomi.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 edl://%134%https://video1.cdnlibs.org/.%D0%B0s//uploads/converted_videos/anime/26289/players/171493/58e3fea5-2cd3-4dab-aba0-2f59b66f7c83_2160.mp4;!new_stream;!track_meta,title=Animevost;%42%https://video.animetop.info/1018490662.mp4;!new_stream;!delay_open,media_type=sub,codec=webvtt,flags=default;!track_meta,title=RU,lang=rus;%89%https://api.cdnlibs.org/uploads/subtitles/667932/c6d29e38-a43a-4391-b10b-bcdebb6b016c.vtt,0,1420;!new_stream;!delay_open,media_type=sub,codec=webvtt;!track_meta,title=EN,lang=eng;%81%https://subst.krussdomi.com/6ac123363c8353066fd22e38/6ac1242a4e0c7f0b72ab1980.vtt,0,1420
